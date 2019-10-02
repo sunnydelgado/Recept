@@ -1,0 +1,59 @@
+*{
+  margin: 0,5%;
+  padding: 0,5%;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  background-image: url("achtergrond 2.jpg");
+  background-size: cover;
+}
+div.gehaktbrood{
+  font-size: 36px;
+  line-height: 36px;
+}
+div.bloemkoolsoep{
+  font-size: 36px;
+  line-height: 36px;
+}
+div.taart{
+  font-size: 36px;
+  line-height: 36px;
+}
+div.paragraaf{
+  font-size: 24px;
+  line-height: 32px;
+  padding-top: 25px;
+}
+div.subtitel{
+  font-size: 32px;
+  line-height: 32px;
+  padding-bottom: 20px;
+}
+div.bereidingswijze{
+  font-size: 32px;
+  line-height: 32px;
+  padding-bottom: 20px;
+}
+div.stappen{
+  font-size: 20px;
+  line-height: 32px;
+  padding-bottom: 20px;
+}
+
+img{
+  display: inline-block;
+  width: 500px;
+  height: 500px;
+  padding: 1px 1px 10px 50px;
+}
+div.thick{
+  border: 1px solid #def6ed;
+  background-color: #def6ed;
+  width: 41%;
+  padding: 10px 20px 10px 30px;
+  text-align: center;
+  font-weight: bold;
+}
+li{
+  line-height: 40px;
+}
